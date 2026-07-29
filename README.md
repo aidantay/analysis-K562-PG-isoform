@@ -43,4 +43,4 @@ The source codes are licensed under GPL less public licence. Users can contribut
 
 ## Contact ##
 
-* Aidan Tay: a.tay@unswalumni.com
+* Aidan Tay: apsltay@outlook.com
